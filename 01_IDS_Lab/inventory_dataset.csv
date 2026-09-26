@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,QuantityInStock,UnitPrice,Supplier,DateAdded,Warehouse
+1001,Wireless Mouse,Electronics,150,12.99,TechSupply Co.,2025-01-15,Warehouse A
+1002,Bluetooth Keyboard,Electronics,85,24.50,TechSupply Co.,2025-01-15,Warehouse A
+1003,Office Chair,Furniture,40,89.99,ComfortSeating Ltd.,2025-02-03,Warehouse B
+1004,Standing Desk,Furniture,20,199.00,ComfortSeating Ltd.,2025-02-03,Warehouse B
+1005,LED Monitor 24in,Electronics,60,145.75,TechSupply Co.,2025-02-10,Warehouse A
+1006,Notebook Pack,Stationery,300,5.49,PaperWorks Inc.,2025-01-20,Warehouse C
+1007,Ballpoint Pens Box,Stationery,500,3.25,PaperWorks Inc.,2025-01-20,Warehouse C
+1008,Desk Lamp,Furniture,75,18.99,ComfortSeating Ltd.,2025-01-22,Warehouse B
+1009,USB-C Cable,Electronics,220,7.99,TechSupply Co.,2025-03-01,Warehouse A
+1010,Filing Cabinet,Furniture,25,120.00,ComfortSeating Ltd.,2025-03-05,Warehouse B
+1011,Whiteboard Marker Set,Stationery,180,4.75,PaperWorks Inc.,2025-01-25,Warehouse C
+1012,Laptop Stand,Electronics,95,22.30,TechSupply Co.,2025-03-10,Warehouse A
+1013,Printer Paper Ream,Stationery,400,6.99,PaperWorks Inc.,2025-01-28,Warehouse C
+1014,Ergonomic Footrest,Furniture,55,29.99,ComfortSeating Ltd.,2025-02-14,Warehouse B
+1015,Webcam HD,Electronics,110,34.99,TechSupply Co.,2025-03-12,Warehouse A
+1016,Sticky Notes Pack,Stationery,350,2.99,PaperWorks Inc.,2025-01-30,Warehouse C
+1017,Conference Table,Furniture,10,350.00,ComfortSeating Ltd.,2025-02-20,Warehouse B
+1018,External Hard Drive 1TB,Electronics,70,59.99,TechSupply Co.,2025-03-15,Warehouse A
+1019,Highlighter Set,Stationery,260,3.99,PaperWorks Inc.,2025-02-01,Warehouse C
+1020,Bookshelf,Furniture,30,145.00,ComfortSeating Ltd.,2025-02-25,Warehouse B
